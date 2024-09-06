@@ -96,6 +96,7 @@ return {
 						unusedParameters = true,
 					},
 				},
+				marksman = {},
 				html = {},
 				tsserver = {},
 				lua_ls = {
